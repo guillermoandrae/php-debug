@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Common;
+namespace GuillermoandraeTest\Common;
 
 use Guillermoandrae\Common\DumpableTrait;
 use PHPUnit\Framework\TestCase;
