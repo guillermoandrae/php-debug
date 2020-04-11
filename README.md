@@ -7,5 +7,4 @@ You should use [Xdebug](https://xdebug.org/). But if you just wanna do some simp
 Do this, then relax:
 ```
 composer require guillermoandrae/php-debug
-
 ```
